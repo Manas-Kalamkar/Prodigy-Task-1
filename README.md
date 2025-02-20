@@ -14,7 +14,7 @@ I want to become a full stack Web developer...
 
 ## Authors
 
-- [@Satyam-Shinde](https://github.com/Satyam-Shinde)
+- [@Satyam-Shinde](https://github.com/Manas-Kalamkar)
 
 
 ## 🔗 Links
